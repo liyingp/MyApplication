@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "登录demo"
+    },
+    {
+      "name": "login_text",
+      "value": "登录"
+    },
+    {
+      "name": "login_title",
+      "value": "登录界面"
+    },
+    {
+      "name": "login_titleT",
+      "value": "登录账号以使用更多服务"
+    }
+  ]
+}
